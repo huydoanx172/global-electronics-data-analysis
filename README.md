@@ -1,1 +1,2 @@
 # Data Analysis for Global Electronics Store
+https://app.powerbi.com/view?r=eyJrIjoiMTgyNGVkNGMtMGRkOS00MjQ2LThmMzQtY2JjMDRmYWZjZGVjIiwidCI6IjY0YTdjYjQ5LTNkOTYtNDI1Yy05ZjM3LTY4MDNkZTk0OWE5NCJ9
