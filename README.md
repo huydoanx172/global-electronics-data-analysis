@@ -1,1 +1,1 @@
-# global-electronics-data-analysis
+# Data Analysis for Global Electronics Store
